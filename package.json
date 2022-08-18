@@ -1,0 +1,25 @@
+{
+  "name": "ejercicio-1",
+  "version": "1.0.0",
+  "description": "Primer ejercicio del curso de JS Básico de Open Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riobinho/primer-ejercicio-curso-javascript-basico.git"
+  },
+  "keywords": [
+    "Ejercicio",
+    "1",
+    "OpenBootCamp"
+  ],
+  "author": "riobinho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riobinho/primer-ejercicio-curso-javascript-basico/issues"
+  },
+  "homepage": "https://github.com/riobinho/primer-ejercicio-curso-javascript-basico#readme"
+}
